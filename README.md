@@ -17,3 +17,10 @@ Please run the following commands to set up:
     $terraform apply
     
 4 Check whether the EKS Elasticache cluster and DynamoDb have been created successfully by the return code of the command $terraform apply.
+
+5 Connect to Elastic Kubernetes Cluster, please refer to the following information:
+
+![alt text](https://github.com/mayerll/AWS/blob/main/image/pic1.png?raw=true)
+
+![alt text](https://github.com/mayerll/AWS/blob/main/image/pic2.png?raw=true)
+
