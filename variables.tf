@@ -77,5 +77,5 @@ variable "alarm_threshold_swap" {
 
 variable "alarm_sns_topic" {
   description = "SNS Topic used for alarms"
-  default     = "arn:aws:sns:us-west-2:202758669767:db_alarms" # Configured in DataVPC repo: https://github.com/telus/terraform-openshift-datavpc-main/blob/master/aws-sns-alarms.tf
+  default     = "arn:aws:sns:us-west-2:202758669767:db_alarms" 
 }
