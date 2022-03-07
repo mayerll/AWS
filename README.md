@@ -4,9 +4,9 @@ How to use this repo:
 
 Please run the following commands to set up:
 
-- A Kubernetes cluster using EKS.
-- An Elasticache cluster using Redis.
-- A DynamoDB table.
+    - A Kubernetes cluster using EKS.
+    - An Elasticache cluster using Redis.
+    - A DynamoDB table.
 
 1 Clone the codes from the repo https://github.com/mayerll/AWS.git
 
