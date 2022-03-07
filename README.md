@@ -44,3 +44,5 @@ c. List the pods of Elastic Kubernetes Cluster:
 
 ![alt text](https://github.com/mayerll/AWS/blob/main/image/pic4.png?raw=true)
 
+6 Please follow the README.md of https://github.com/mayerll/AWS to deploy the app on Kubernetes
+
